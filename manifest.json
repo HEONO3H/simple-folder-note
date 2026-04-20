@@ -1,9 +1,9 @@
 {
   "id": "simple-folder-note",
-  "name": "심플 폴더 노트",
+  "name": "Simple Folder Note",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "폴더와 같은 이름의 .md를 폴더 노트로 취급합니다. (탐색기에서 숨김 + 폴더 클릭 시 열기)",
-  "author": "헌태",
+  "description": "Treats a .md file with the same name as its folder as a folder note. Hides it from the file explorer and opens it when the folder is clicked.",
+  "author": "HEONO3H",
   "isDesktopOnly": false
 }
